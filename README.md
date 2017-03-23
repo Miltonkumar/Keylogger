@@ -1,2 +1,2 @@
-# acidburn
-good with computers
+# records key strokes
+hides itself
